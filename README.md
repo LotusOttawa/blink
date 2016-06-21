@@ -1,5 +1,5 @@
 # blink
-CHIP program to blink status LED and shut down when reset if briefly pressed.
+CHIP program to blink status LED and shut down when reset is briefly pressed.
 
 ## License
 
